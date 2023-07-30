@@ -1,0 +1,2 @@
+def printBob():
+    print("Bob")

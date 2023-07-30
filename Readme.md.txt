@@ -1,1 +1,1 @@
-SQSHelperService
+SQSHelperService is a helper service with APIs to send and consume messages from AWS SQS.
